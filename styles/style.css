@@ -1,0 +1,14 @@
+canvas {
+    height: 90vh;
+    background-color: bisque;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+.stickFigure{
+    width: 2vw;
+    height: auto;
+}
